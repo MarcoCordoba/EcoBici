@@ -1,5 +1,8 @@
 # Pipeline Ecobici (Bronze / Silver / Gold)
 
+**Autor:** Marco Cordoba
+**Repositorio:** https://github.com/MarcoCordoba/EcoBici
+
 Pipeline de datos sobre los viajes del sistema Ecobici (CABA) de los años 2016, 2019 y 2024,
 organizado con la arquitectura medallion. Parte de los archivos tal como los publica el
 portal de datos abiertos y termina en un modelo estrella y cinco reportes en CSV.
