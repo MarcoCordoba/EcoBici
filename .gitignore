@@ -1,0 +1,13 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos pesados (se regeneran con python main.py)
+data/raw/*
+data/bronze/*
+data/silver/*
+data/gold/*
+!data/gold/reportes/
+!data/**/.gitkeep
